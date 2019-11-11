@@ -22,10 +22,16 @@ This code will require a 'Subject.csv' file to work as its input. this file will
 
 ## How it works
 1. Create necessary lists and dictionaries from the input csv file
+
+
 ![Image of Lists and dictionaries](./images/ListsAndDictionaries.png)
 
 2. Pick the next subject to be added by sifting through the list for the remaining subject duration and the previous subject and then add it to the classroom class
+
+
 ![Image of finished schedule](./images/ScheduleClass.png)
 
 3. Export the schedule to excel file
+
+
 ![Image of the xlsx file](./images/ScheduleFile.png)
